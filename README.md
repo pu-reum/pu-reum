@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=pu_reum)](https://github.com/Park-Pureum)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=pu-reum)](https://github.com/Park-Pureum)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pu-reum&layout=compact)](https;//github/Park-Pureum/github-readme-stats)
 
